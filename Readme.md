@@ -1,13 +1,12 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Ксения](https://up.htmlacademy.ru/javascript/27/user/2064615).
-* Наставник: `Антон Попов`.
+* Наставник: [Антон Попов] (https://htmlacademy.ru/profile/joker).
 
 ---
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
-
 ---
 
 [Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
