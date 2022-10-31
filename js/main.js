@@ -47,4 +47,4 @@ const createPhotoGallery = (count) => {
   return photoGallery;
 };
 
-const listOfPhoto = createPhotoGallery(25);
+createPhotoGallery(25);
