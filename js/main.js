@@ -43,9 +43,8 @@ const createPhotoGallery = (count) => {
       likes: getRandomPositiveInteger(LikesCount.MIN, LikesCount.MAX),
       comments: getRandomPositiveInteger(CommentsCount.MIN, CommentsCount.MAX),
     };
-  };
+  }
   return photoGallery;
 };
 
 const listOfPhoto = createPhotoGallery(25);
-console.table(listOfPhoto);
